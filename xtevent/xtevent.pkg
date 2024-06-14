@@ -1,5 +1,15 @@
-d 'DEA': Data envelopment analysis
+d 'xtevent': Estimation (Estimate) and Visualization (visualize) in the Linear Panel Event Study Design models Use xtevent With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _eventgenvars.ado
+f _eventiv.ado
+f _eventivstatic.ado
+f _eventols.ado
+f _eventolsstatic.ado
+f get_unit_time_effects.ado
+f get_unit_time_effects.sthlp
+f xtevent.ado
+f xtevent.sthlp
+f xteventplot.ado
+f xteventplot.sthlp
+f xteventtest.ado
+f xteventtest.sthlp
