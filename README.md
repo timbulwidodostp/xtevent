@@ -1,6 +1,8 @@
 # xtevent
 Estimation (Estimate) and Visualization (visualize) in the Linear Panel Event Study Design models Use xtevent With STATA 18
 
+https://www.youtube.com/watch?v=zcFKHTm8P80
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
